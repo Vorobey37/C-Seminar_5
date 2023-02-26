@@ -39,3 +39,7 @@ int [] SumMass (int []array)
 }
 
 PrintMass(SumMass(mass));
+Console.WriteLine();
+Console.Write($"{SumMass(mass)[0]}, {SumMass(mass)[1]}");
+Console.WriteLine();
+Console.WriteLine(String.Join(", ", mass));
