@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\bin\Debug\net6.0\mass_12.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\bin\Debug\net6.0\mass_12.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\bin\Debug\net6.0\mass_12.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\bin\Debug\net6.0\mass_12.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\bin\Debug\net6.0\mass_12.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\obj\Debug\net6.0\mass_12.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\obj\Debug\net6.0\mass_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\obj\Debug\net6.0\mass_12.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\obj\Debug\net6.0\mass_12.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\obj\Debug\net6.0\mass_12.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\obj\Debug\net6.0\mass_12.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\obj\Debug\net6.0\refint\mass_12.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\obj\Debug\net6.0\mass_12.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\obj\Debug\net6.0\mass_12.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\mass_12\obj\Debug\net6.0\ref\mass_12.dll
