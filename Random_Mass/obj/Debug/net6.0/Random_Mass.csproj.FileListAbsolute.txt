@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\bin\Debug\net6.0\Random_Mass.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\bin\Debug\net6.0\Random_Mass.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\bin\Debug\net6.0\Random_Mass.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\bin\Debug\net6.0\Random_Mass.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\bin\Debug\net6.0\Random_Mass.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\obj\Debug\net6.0\Random_Mass.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\obj\Debug\net6.0\Random_Mass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\obj\Debug\net6.0\Random_Mass.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\obj\Debug\net6.0\Random_Mass.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\obj\Debug\net6.0\Random_Mass.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\obj\Debug\net6.0\Random_Mass.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\obj\Debug\net6.0\refint\Random_Mass.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\obj\Debug\net6.0\Random_Mass.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\obj\Debug\net6.0\Random_Mass.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Random_Mass\obj\Debug\net6.0\ref\Random_Mass.dll
