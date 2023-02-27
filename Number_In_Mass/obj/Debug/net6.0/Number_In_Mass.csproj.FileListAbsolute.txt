@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\bin\Debug\net6.0\Number_In_Mass.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\bin\Debug\net6.0\Number_In_Mass.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\bin\Debug\net6.0\Number_In_Mass.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\bin\Debug\net6.0\Number_In_Mass.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\bin\Debug\net6.0\Number_In_Mass.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\obj\Debug\net6.0\Number_In_Mass.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\obj\Debug\net6.0\Number_In_Mass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\obj\Debug\net6.0\Number_In_Mass.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\obj\Debug\net6.0\Number_In_Mass.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\obj\Debug\net6.0\Number_In_Mass.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\obj\Debug\net6.0\Number_In_Mass.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\obj\Debug\net6.0\refint\Number_In_Mass.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\obj\Debug\net6.0\Number_In_Mass.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\obj\Debug\net6.0\Number_In_Mass.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_5\Number_In_Mass\obj\Debug\net6.0\ref\Number_In_Mass.dll
